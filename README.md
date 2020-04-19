@@ -1,1 +1,1 @@
-# CC just for testing
+# Sjekker kamper for IL Trond
